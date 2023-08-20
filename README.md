@@ -95,11 +95,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsmailKonak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+
   <img src="https://streak-stats.demolab.com?user=IsmailKonak&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
+<h3 align="left">🗒   My Latest Medium Stories :</h3>
+
+###
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=i_konak&theme=vue-dark" alt="Layout with last medium posts"  />
 </div>
