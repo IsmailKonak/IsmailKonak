@@ -37,7 +37,7 @@
 <h3 align="left">I'm Ismail Konak</h3>
 <h3 align="left">I am computer engineering student living in Turkey who is passionate about AI.</h3>
 
-- 🔭 I’m currently working on **[PyTorch-SOTA-Implementations](https://github.com/IsmailKonak/PyTorch-SOTA-Implementations)**
+- 🔭 I’m currently working on **[AI_Interpretability_Journey](https://github.com/IsmailKonak/AI_Interpretability_Journey)**
 
 - 📝 I (try to) regularly write articles on **[Medium](https://medium.com/@i_konak)**
 
